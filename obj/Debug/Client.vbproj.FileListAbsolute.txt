@@ -1,0 +1,11 @@
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\bin\Debug\Client.exe.config
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\bin\Debug\Client.exe
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\bin\Debug\Client.pdb
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\bin\Debug\Client.xml
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.vbprojAssemblyReference.cache
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.MyApp.EntryPoint.resources
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.Resources.resources
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.vbproj.GenerateResource.cache
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.exe
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.xml
+C:\Users\darre\Downloads\remote\RATs\New folder\BetterRAT-master\Client\obj\Debug\Client.pdb
